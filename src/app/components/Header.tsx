@@ -11,7 +11,7 @@ function Header() {
           <div className='flex justify-center items-center'>
             <Image src="" width={55} alt ="プロフィール画像"  className='rounded-full border-2 w-[55px] h-[55px] mr-5'/>
             <div className='mr-5'>山田   太郎</div>
-            <div className='basic-border-color py-2 px-4 rounded-lg text-white'>出品する</div>
+            <div className='basic-border-color py-2 px-5 rounded-lg text-white'>出品する</div>
           </div>
         </div>
       </div>

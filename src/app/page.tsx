@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Header from "@/app/components/Header"
 import Sidebar from "@/app/components/SideBar"
-import Main from "@/app/components/Main"
+import HomePage from "@/app/components/Home"
 export default function Home() {
   return (
     <>
@@ -9,7 +9,7 @@ export default function Home() {
       <Header />
       <div className="flex justify-center items-center w-full h-full">
         <Sidebar />
-        <Main />
+        <HomePage />
       </div>
     </div>
     </>
