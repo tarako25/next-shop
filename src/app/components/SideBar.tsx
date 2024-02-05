@@ -3,7 +3,7 @@ import React from 'react'
 function SideBar() {
   return (
     <>
-    <div className='w-[350px] h-full basic-border-color'>
+    <div className='w-[350px] h-screen basic-border-color'>
       {/* 検索設定 */}
       <div className='w-full h-[65px] flex justify-center items-center border-white border-b text-white'>
         <div className='w-[90%]'>検索設定</div>
