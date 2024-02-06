@@ -3,6 +3,8 @@ import Section from '@/app/components/Item/section'
 import MoreButton from '@/app/components/Item/moreButton'
 import sample from '../../../public/sample.png'
 import Image from 'next/image'
+import SearchIcon from '@mui/icons-material/Search';
+
 function Home() {
   return (
     <>
